@@ -1,2 +1,2 @@
-# key_generator
- gerador de senha aleatória simples em Python
+# Key Generator
+ Gerador simples de senha aleatória em Python utilizando estruturas de decisão e repetição.
